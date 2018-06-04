@@ -31,6 +31,7 @@ Firebase to store user stats
 
 * Sudoku by Pink Pointer
 * Sudoku feature of Simon Tatham's Puzzles
+
 These apps implemented the sudoku in a way I intend to do as well.
 
 ### Hardest parts
