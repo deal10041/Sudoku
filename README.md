@@ -14,8 +14,10 @@ With this sudoku app the user doesn't have to be bored for a while.
 
 * Solving sudoku puzzles on varying difficulties
 * Showing stats of user
-* Optionally, time the attempt to solve
-* Optionally, allow user to get hints
+* Time the attempt to solve
+* Allow user to get hints
+* Leaderboards
+* (Optional) Achievements
 
 ## Prerequisites
 
@@ -25,7 +27,8 @@ With this sudoku app the user doesn't have to be bored for a while.
 
 ### External components
 
-Firebase to store user stats
+* Firebase to store user stats
+* Google play services
 
 ### Similar apps
 
@@ -33,6 +36,7 @@ Firebase to store user stats
 * Sudoku feature of Simon Tatham's Puzzles
 
 These apps implemented the sudoku in a way I intend to do as well.
+But both apps don't have a leaderboard.
 
 ### Hardest parts
 
