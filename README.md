@@ -14,7 +14,7 @@ With this sudoku app the user doesn't have to be bored for a while.
 
 * Solving sudoku puzzles on varying difficulties
 * Showing stats of user
-* Optionally, time the attempt to sole
+* Optionally, time the attempt to solve
 * Optionally, allow user to get hints
 
 ## Prerequisites
