@@ -6,4 +6,4 @@ Most of us get bored sometimes. For puzzle enthousiasts this results in a cravin
 
 ## Solution
 
-![alt text](https://github.com/deal10041/Sudoku/blob/master/docs/screens.png)
+![alt text](https://github.com/deal10041/Sudoku/blob/master/docs/Screens.png)
