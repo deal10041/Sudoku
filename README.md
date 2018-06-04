@@ -8,7 +8,7 @@ Most of us get bored sometimes. For puzzle enthousiasts this results in a cravin
 
 With this sudoku app the user doesn't have to be bored for a while.
 
-![alt text](https://github.com/deal10041/Sudoku/blob/master/docs/Screens.png)
+![alt text](https://github.com/deal10041/Sudoku/blob/master/doc/Screens.png)
 
 ### Main features
 
