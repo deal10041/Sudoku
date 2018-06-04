@@ -1,4 +1,9 @@
-# Sudoku
+# Sudoku 
+### By Dylan Wellner
+
+## Summary
+
+This app empowers the user to solve sudoku puzzles.
 
 ## Problem
 
