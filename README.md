@@ -21,7 +21,7 @@ With this sudoku app the user doesn't have to be bored for a while.
 
 ### Data sources
 
-* https://sugoku.herokuapp.com/ as API
+* https://sugoku.herokuapp.com as API
 
 ### External components
 
