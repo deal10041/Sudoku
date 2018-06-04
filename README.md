@@ -6,4 +6,34 @@ Most of us get bored sometimes. For puzzle enthousiasts this results in a cravin
 
 ## Solution
 
+With this sudoku app the user doesn't have to be bored for a while.
+
 ![alt text](https://github.com/deal10041/Sudoku/blob/master/docs/Screens.png)
+
+### Main features
+
+* Solving sudoku puzzles on varying difficulties
+* Showing stats of user
+* Optionally, time the attempt to sole
+* Optionally, allow user to get hints
+
+## Prerequisites
+
+### Data sources
+
+* https://sugoku.herokuapp.com/ as API
+
+### External components
+
+Firebase to store user stats
+
+### Similar apps
+
+* Sudoku by Pink Pointer
+* Sudoku feature of Simon Tatham's Puzzles
+These apps implemented the sudoku in a way I intend to do as well.
+
+### Hardest parts
+
+* Input of the sudoku game
+* Checking if game is solved
